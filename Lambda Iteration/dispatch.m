@@ -1,11 +1,3 @@
-% This program solves the coordination equation for economic scheduling
-% of generation.  The program requires the total load demand (Pdt), the
-% cost function matrix (cost) and the gen. mwlimits.  If mwlimits is not
-% defined the scheduling is obtained with no generation limits. If the
-% basemva and any of the loss coefficients B, B0 and B00 are specified
-% optimum dispatch is obtained including the system losses.
-%
-% copyright (c) 1998 by H. Saadat
 
 clear Pgg
 if exist('Pdt')~=1
