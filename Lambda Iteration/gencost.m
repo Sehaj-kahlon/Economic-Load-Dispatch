@@ -1,7 +1,7 @@
 
 % This program computes the total generation cost. It requires the
 % real power generation schedule and the cost matrix.
-% Copyright (C) 1998 by H. Saadat
+
 
 %function [totalcost]=gencost(Pgg, cost)
 if exist('Pgg')~=1
