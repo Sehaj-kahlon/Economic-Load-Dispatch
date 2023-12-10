@@ -5,7 +5,7 @@
 % basemva and any of the loss coefficients B, B0 and B00 are specified
 % optimum dispatch is obtained including the system losses.
 %
-% copyright (c) 1998 by H. Saadat
+
 
 clear Pgg
 if exist('Pdt')~=1
